@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Kyle Grattan! 👋
 
-<!--
-**ktgcreative/ktgcreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+👨‍💻 I'm a Machine Learning & Web Development student based in Queenstown.  
+🌊 I also guide river surfing/riverboarding adventures during my free moments.  
+🥁 When I'm not diving deep into code or running rivers, I'm drumming.  
+📈 Passionate about continuous learning, collaboration, and making impactful contributions.
 
-Here are some ideas to get you started:
+## Preview My First Python Package
+- 🌐 [PivotPal](https://www.pythonpivotpal.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+- 🌐 Next.js and App Router for seamless web development.
+- 🎨 Tailwind for stylish and efficient CSS design.
+- 📜 TypeScript for static typing in JavaScript.
+- 🐍 Python, with a special love for Pandas in data manipulation.
