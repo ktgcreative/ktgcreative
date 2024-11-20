@@ -13,9 +13,6 @@
 
 ## 🛠️ Languages and Tools
 
-Here’s your updated **Languages and Tools** section with the Shield.io badges for **GraphQL** and **scikit-learn**:
-
-
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
